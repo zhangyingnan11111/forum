@@ -1,0 +1,15 @@
+com\forum\annotation\LoginRequired.class
+com\forum\common\result\ResultCode.class
+com\forum\utils\JwtUtil.class
+com\forum\common\exception\GlobalExceptionHandler.class
+com\forum\common\exception\ErrorCode.class
+com\forum\common\result\PageResult.class
+com\forum\ForumApplication.class
+com\forum\common\config\MybatisPlusConfig.class
+com\forum\common\config\RedisConfig.class
+com\forum\utils\RedisUtil.class
+com\forum\common\exception\BusinessException.class
+com\forum\common\result\Result.class
+com\forum\utils\PasswordEncoder.class
+com\forum\interceptor\LoginInterceptor.class
+com\forum\common\config\WebMvcConfig.class
